@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,ANTENA HD
+http://91.246.72.88:8000/play/a005/index.m3u8
+#EXTINF:-1,Alfa TVP
+http://91.246.72.88:8000/play/a01t/index.m3u8
+#EXTINF:-1,Belsat TV
+http://91.246.72.88:8000/play/a01w/index.m3u8
+#EXTINF:-1,ESKA TV
+http://91.246.72.88:8000/play/a002/index.m3u8
+#EXTINF:-1,Fokus TV
+http://91.246.72.88:8000/play/a008/index.m3u8
+#EXTINF:-1,PULS 2
+http://91.246.72.88:8000/play/a00g/index.m3u8
+#EXTINF:-1,Polo TV
+http://91.246.72.88:8000/play/a004/index.m3u8
+#EXTINF:-1,Polsat
+http://91.246.72.88:8000/play/a00b/index.m3u8
+#EXTINF:-1,Polsat News Polityka
+http://91.246.72.88:8000/play/a016/index.m3u8
+#EXTINF:-1,Stopklatka TV
+http://91.246.72.88:8000/play/a007/index.m3u8
+#EXTINF:-1,Super Polsat
+http://91.246.72.88:8000/play/a00i/index.m3u8
+#EXTINF:-1,TTV
+http://91.246.72.88:8000/play/a003/index.m3u8
+#EXTINF:-1,TV Puls
+http://91.246.72.88:8000/play/a00e/index.m3u8
+#EXTINF:-1,TV Trwam
+http://91.246.72.88:8000/play/a006/index.m3u8
+#EXTINF:-1,TV4
+http://91.246.72.88:8000/play/a00d/index.m3u8
+#EXTINF:-1,TV6
+http://91.246.72.88:8000/play/a00h/index.m3u8
+#EXTINF:-1,TVN
+http://91.246.72.88:8000/play/a00c/index.m3u8
+#EXTINF:-1,TVN 7
+http://91.246.72.88:8000/play/a00f/index.m3u8
+#EXTINF:-1,TVP ABC
+http://91.246.72.88:8000/play/a00r/index.m3u8
+#EXTINF:-1,TVP Dokument
+http://91.246.72.88:8000/play/a01x/index.m3u8
+#EXTINF:-1,TVP Historia
+http://91.246.72.88:8000/play/a00o/index.m3u8
+#EXTINF:-1,TVP Info
+http://91.246.72.88:8000/play/a00q/index.m3u8
+#EXTINF:-1,TVP Kobieta
+http://91.246.72.88:8000/play/a01v/index.m3u8
+#EXTINF:-1,TVP Kultura
+http://91.246.72.88:8000/play/a00n/index.m3u8
+#EXTINF:-1,TVP Nauka
+http://91.246.72.88:8000/play/a01z/index.m3u8
+#EXTINF:-1,TVP Polonia
+http://91.246.72.88:8000/play/a01u/index.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://91.246.72.88:8000/play/a01y/index.m3u8
+#EXTINF:-1,TVP Sport
+http://91.246.72.88:8000/play/a00p/index.m3u8
+#EXTINF:-1,TVP World
+http://91.246.72.88:8000/play/a020/index.m3u8
+#EXTINF:-1,TVP1
+http://91.246.72.88:8000/play/a00k/index.m3u8
+#EXTINF:-1,TVP2
+http://91.246.72.88:8000/play/a00l/index.m3u8
+#EXTINF:-1,TVP3 Rzeszow
+http://91.246.72.88:8000/play/a00m/index.m3u8
+#EXTINF:-1,Wydarzenia 24
+http://91.246.72.88:8000/play/a009/index.m3u8
